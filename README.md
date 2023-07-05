@@ -1,2 +1,2 @@
-# DeBike_Sharing_Demand_Prediction
+# Bike_Sharing_Demand_Prediction
 Capstone project of Machine Learning Regression.
